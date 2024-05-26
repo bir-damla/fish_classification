@@ -7,4 +7,4 @@ içerisindeki veri seti kaggle içerisinde bulunan https://www.kaggle.com/datase
 * Inception (GoogleNet)'te %99.00
 * CNN'de ise %74.03 'tür.
 
-Fakat mimarilerin hızları birbirlerinden oldukça farklı olabilmektedir. MobileNet, ResNet ve GoogleNet normal bir hızda çalışıp işlemleri ortalama 1.5 saatte bitirebilirken VGG16'da bu süre 4 saate kadar çıkmıştır. Test verileri de eklenerek son doğruluk oranları bulunup eklenecektir.
+Fakat mimarilerin hızları birbirlerinden oldukça farklı olabilmektedir. MobileNet, ResNet ve GoogleNet normal bir hızda çalışıp işlemleri ortalama 1.5 saatte bitirebilirken VGG16'da bu süre 4 saate kadar çıkmıştır. Test verileri de eklenerek son doğruluk oranları verilmiştir.
